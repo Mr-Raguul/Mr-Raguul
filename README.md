@@ -49,7 +49,7 @@ SSLC (10th)	Tamil Nadu State Board	70.6%	2021
 🏆 Fundamentals of Mining — Celonis Academy (Oct 2024)
 🏆 MongoDB Fundamentals for Students — MongoDB University (Jul 2025)
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" height="165"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Raguul&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" height="165"/> </p>
 
 💡 Replace YOUR_GITHUB_USERNAME above with your actual GitHub username to activate these stat cards.
 
